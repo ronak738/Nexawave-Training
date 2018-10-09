@@ -27,7 +27,7 @@ public class Cat extends Animal implements hunter1,Jumper,Runner
 	public void run(int distance)
 	{
 		
-		System.out.println("cat running  "+distance+"  distance");
+		System.out.println("cat running  ");
 	}
 	
 	public static void main(String[] args) {
