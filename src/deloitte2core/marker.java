@@ -17,10 +17,9 @@ public class marker
 		
 		marker ob1=new marker();
 		markere ob2=new marker();
-		marker obj2
+		marker obj2;
 		this.price;
-		System.out.println(this.price
-				);
+		System.out.println(this.price);
 	
 	}
 
