@@ -9,8 +9,9 @@ public class cal {
 		c1.set(Calendar.DAY_OF_YEAR,c1.getActualMaximum(Calendar.DAY_OF_YEAR)+72);
 		System.out.println(Calendar.DAY_OF_YEAR);
 		//System.out.println(c1.get(Calender.Hour));
-		
+		//system.out.println
 		System.out.println(c1.getClass());
+//apple
 		
 		
 	}
